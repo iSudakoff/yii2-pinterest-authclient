@@ -9,7 +9,7 @@ namespace isudakoff\authclient;
 
 use yii\authclient\OAuth2;
 
-class MyAuthClient extends OAuth2
+class Pinterest extends OAuth2
 {
     /**
      * @inheritdoc
