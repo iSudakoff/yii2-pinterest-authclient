@@ -23,7 +23,7 @@ class Pinterest extends OAuth2
     /**
      * @inheritdoc
      */
-    public $apiBaseUrl = 'https://api.pinterest.com/v1/';
+    public $apiBaseUrl = 'https://api.pinterest.com/v1';
 
     /**
      * @inheritdoc
