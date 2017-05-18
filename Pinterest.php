@@ -5,6 +5,7 @@
  * Date: 17.05.17
  * Time: 17:17
  */
+
 namespace isudakoff\authclient;
 
 use yii\authclient\OAuth2;

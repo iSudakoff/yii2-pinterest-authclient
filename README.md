@@ -35,9 +35,8 @@ and add the Pinterest client to your auth clients.
         'clients' => [
             'pinterest' => [
                 'class' => 'isudakoff\authclient\Pinterest',
-                    'clientId' => 'pinterest_app_id',
-                    'clientSecret' => 'pinterest_app_secret',
-                ],
+                'clientId' => 'pinterest_app_id',
+                'clientSecret' => 'pinterest_app_secret',
             ],
             // other clients
         ],
