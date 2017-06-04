@@ -2,6 +2,11 @@
 
 This extension adds Pinterest OAuth2 supporting for [yii2-authclient](https://github.com/yiisoft/yii2-authclient).
 
+[![License](https://poser.pugx.org/isudakoff/yii2-pinterest-authclient/license)](https://packagist.org/packages/isudakoff/yii2-pinterest-authclient)
+[![Total Downloads](https://poser.pugx.org/isudakoff/yii2-pinterest-authclient/downloads)](https://packagist.org/packages/isudakoff/yii2-pinterest-authclient)
+[![Latest Stable Version](https://poser.pugx.org/isudakoff/yii2-pinterest-authclient/v/stable)](https://packagist.org/packages/isudakoff/yii2-pinterest-authclient)
+[![Latest Unstable Version](https://poser.pugx.org/isudakoff/yii2-pinterest-authclient/v/unstable)](https://packagist.org/packages/isudakoff/yii2-pinterest-authclient)
+
 ## Installation
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
