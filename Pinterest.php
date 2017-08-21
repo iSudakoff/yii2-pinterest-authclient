@@ -19,7 +19,7 @@ class Pinterest extends OAuth2
     /**
      * @inheritdoc
      */
-    public $tokenUrl = 'https://api.pinterest.com/oauth/token';
+    public $tokenUrl = 'https://api.pinterest.com/v1/oauth/token';
     /**
      * @inheritdoc
      */
